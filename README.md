@@ -84,6 +84,8 @@ violations:
   ban: 0
   resetafterkick: true # reset violations after kick (this disables banning if kick-count is lower)
 ```
+## Disclaimer
+I have wrote variants of the "N-Word" and other offensive words. I wasn't using them to refer to anyone/anything in an offensive matter nor was I saying that there isn't a use case for it where it isn't offensive. If you feel offended at all then I am sorry, please accept this appology and go on with your day.
 
 ## 🙋‍ Contribution
 Feel free to contribute if you have ideas or found an issue.
