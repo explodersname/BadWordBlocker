@@ -15,6 +15,18 @@ badwords:
   - "fuck"
   - "shit"
   - "bitch"
+  - "cunt"
+  - "nigger"
+  - "ass"
+  - "asshole"
+  - "fucker"
+  - "fucking"
+  - "bitchass"
+  - "motherfucker"
+  - "fuckin"
+  - "nigga"
+  - "damn"
+  - "hell"
 
 # Ignore spaces in messages when checking for swear words / spam
 ignorespaces: true
